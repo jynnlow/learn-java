@@ -13,7 +13,7 @@ public class RandomValues {
         int randomIntLimit = random.nextInt(6);
         System.out.println("Random Int with Limit: " + randomIntLimit);
 
-        //if we wants the number between 1 to 6
+        // from 1 to 6
         int randomIntRange = random.nextInt(6) + 1;
         System.out.println("Random Int with Starting Number: " + randomIntRange + "\n");
 
